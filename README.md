@@ -1,1 +1,4 @@
-# Sparta_Global_Node_Chef
+# node
+
+TODO: Enter the cookbook description here.
+
